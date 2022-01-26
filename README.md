@@ -1,7 +1,7 @@
 # README #
 
 
-### How do I get set up? ###
+### How do I set up? ###
 
 - Download data from [here](http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz)
 - Install requirements
@@ -14,6 +14,6 @@ pip install -r requirements.txt
   - `1_Embedding_Visualization.ipynb` - to generate PCA result
   - `3_ModelEvaluation.ipynb` - to generate baseline metrics and result visualizations
 
-### Who do I talk to? ###
+### Contact ###
 
 * Mudit Bachhawat [mudit5bachhawat@gmail.com]
