@@ -1,11 +1,9 @@
 # README #
 
 
-### Report
-Please find the report [here](https://docs.google.com/document/d/10syYo8OERTmnPMWvFKgTdkiU1SkgUnDXlF7UrWkhDjc/edit?usp=sharing).
-
 ### How do I get set up? ###
 
+- Download data from [here](http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz)
 - Install requirements
 ```bash
 pip install -r requirements.txt
